@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/fasttunnels/fasttunnel/releases/download/v0.1.1/fasttunnel_0.1.1_windows_amd64.zip",
+            "bin": [
+                "fasttunnel.exe"
+            ],
+            "hash": "c988f6244f2b6a95e1a6ea6b05d22b9ed4ee00a1edc10c3412ecda71503e9e02"
+        }
+    },
+    "homepage": "https://fasttunnel.dev",
+    "license": "MIT",
+    "description": "FastTunnel CLI — open-source tunneling"
+}
