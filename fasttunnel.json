@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fasttunnels/fasttunnel/releases/download/v0.2.1/fasttunnel_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/fasttunnels/fasttunnel/releases/download/v0.3.0/fasttunnel_0.3.0_windows_amd64.zip",
             "bin": [
                 "fasttunnel.exe"
             ],
-            "hash": "f6836150e4c2aca02ea1bbc325fe05df2e8f2a61452f391cb9abb459f771d0ae"
+            "hash": "b01939caf3c0d225e1c0125b608ee957f455b27f5abad4e00a2b96a7a8b2a41c"
         }
     },
     "homepage": "https://fasttunnel.dev",
